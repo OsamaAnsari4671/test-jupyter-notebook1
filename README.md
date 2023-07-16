@@ -1,2 +1,2 @@
-# test-jupyter-notebook1
-This is the first jupyter test notebook for testing code and markdown cells.
+# test-jupyter-notebook
+This repository contain all the hand-on project during the entire course.
